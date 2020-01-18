@@ -1,0 +1,592 @@
+{
+   "trade-items-list":[
+  {
+    "num": 95,
+    "name": "toys, games and sports equipment; parts and accessories thereof",
+    "min": 1027752441,
+    "max": 1142273049
+  },
+  {
+    "num": 63,
+    "name": "made-up textile articles nesoi; needlecraft sets; worn clothing and worn textile articles; rags",
+    "min": 408505917,
+    "max": 466345366
+  },
+  {
+    "num": 98,
+    "name": "special classification provisions, nesoi",
+    "min": 55260102,
+    "max": 100412342
+  },
+  {
+    "num": 39,
+    "name": "plastics and articles thereof",
+    "min": 1151747395,
+    "max": 1196150294
+  },
+  {
+    "num": 96,
+    "name": "miscellaneous manufactured articles",
+    "min": 152910620,
+    "max": 168984693
+  },
+  {
+    "num": 67,
+    "name": "prepared feathers and down and articles thereof; artificial flowers; articles of human hair",
+    "min": 78155447,
+    "max": 91823638
+  },
+  {
+    "num": 49,
+    "name": "printed books, newspapers, pictures and other printed products; manuscripts, typescripts and plans",
+    "min": 115609518,
+    "max": 128018464
+  },
+  {
+    "num": 64,
+    "name": "footwear, gaiters and the like; parts of such articles",
+    "min": 500733671,
+    "max": 509589935
+  },
+  {
+    "num": 89,
+    "name": "ships, boats and floating structures",
+    "min": 4997718,
+    "max": 8762253
+  },
+  {
+    "num": 30,
+    "name": "pharmaceutical products",
+    "min": 33962191,
+    "max": 37710000
+  },
+  {
+    "num": 34,
+    "name": "soap etc.; lubricating products; waxes, polishing or scouring products; candles etc., modeling pastes; dental waxes and dental plaster preparations",
+    "min": 34068780,
+    "max": 36247564
+  },
+  {
+    "num": 92,
+    "name": "musical instruments; parts and accessories thereof",
+    "min": 19508769,
+    "max": 21304305
+  },
+  {
+    "num": 36,
+    "name": "explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+    "min": 59300204,
+    "max": 60436647
+  },
+  {
+    "num": 6,
+    "name": "live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "min": 5472703,
+    "max": 6420121
+  },
+  {
+    "num": 35,
+    "name": "albuminoidal substances; modified starches; glues; enzymes",
+    "min": 14393140,
+    "max": 15258841
+  },
+  {
+    "num": 19,
+    "name": "preparations of cereals, flour, starch or milk; bakers' wares",
+    "min": 14361049,
+    "max": 14998815
+  },
+  {
+    "num": 13,
+    "name": "lac; gums; resins and other vegetable saps and extracts",
+    "min": 4731954,
+    "max": 5324343
+  },
+  {
+    "num": 81,
+    "name": "base metals nesoi; cermets; articles thereof",
+    "min": 8614673,
+    "max": 9096329
+  },
+  {
+    "num": 78,
+    "name": "lead and articles thereof",
+    "min": 143568,
+    "max": 490426
+  },
+  {
+    "num": 66,
+    "name": "umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+    "min": 31505524,
+    "max": 31748212
+  },
+  {
+    "num": 2,
+    "name": "meat and edible meat offal",
+    "min": 314995,
+    "max": 500935
+  },
+  {
+    "num": 9,
+    "name": "coffee, tea, mate and spices",
+    "min": 13054050,
+    "max": 13228453
+  },
+  {
+    "num": 41,
+    "name": "raw hides and skins (other than furskins) and leather",
+    "min": 332026,
+    "max": 384387
+  },
+  {
+    "num": 99,
+    "name": "special import reporting provisions, nesoi",
+    "min": 976,
+    "max": 0
+  },
+  {
+    "num": 18,
+    "name": "cocoa and cocoa preparations",
+    "min": 927327,
+    "max": 898333
+  },
+  {
+    "num": 24,
+    "name": "tobacco and manufactured tobacco substitutes",
+    "min": 441979,
+    "max": 379624
+  },
+  {
+    "num": 47,
+    "name": "pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper and paperboard",
+    "min": 506054,
+    "max": 432031
+  },
+  {
+    "num": 14,
+    "name": "vegetable plaiting materials and vegetable products, nesoi",
+    "min": 2419728,
+    "max": 2336406
+  },
+  {
+    "num": 37,
+    "name": "photographic or cinematographic goods",
+    "min": 838848,
+    "max": 749831
+  },
+  {
+    "num": 79,
+    "name": "zinc and articles thereof",
+    "min": 4377049,
+    "max": 4264641
+  },
+  {
+    "num": 80,
+    "name": "tin and articles thereof",
+    "min": 1639482,
+    "max": 1469009
+  },
+  {
+    "num": 93,
+    "name": "arms and ammunition; parts and accessories thereof",
+    "min": 4823880,
+    "max": 4638393
+  },
+  {
+    "num": 45,
+    "name": "cork and articles of cork",
+    "min": 1655895,
+    "max": 1467496
+  },
+  {
+    "num": 21,
+    "name": "miscellaneous edible preparations",
+    "min": 18418210,
+    "max": 18211646
+  },
+  {
+    "num": 10,
+    "name": "cereals",
+    "min": 527497,
+    "max": 317985
+  },
+  {
+    "num": 26,
+    "name": "ores, slag and ash",
+    "min": 6606956,
+    "max": 6262812
+  },
+  {
+    "num": 15,
+    "name": "animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+    "min": 1792117,
+    "max": 1427313
+  },
+  {
+    "num": 53,
+    "name": "vegetable textile fibers nesoi; yarns and woven fabrics of vegetable textile fibers nesoi and paper",
+    "min": 1396814,
+    "max": 983608
+  },
+  {
+    "num": 75,
+    "name": "nickel and articles thereof",
+    "min": 1261608,
+    "max": 782502
+  },
+  {
+    "num": 50,
+    "name": "silk, including yarns and woven fabrics thereof",
+    "min": 832635,
+    "max": 317785
+  },
+  {
+    "num": 97,
+    "name": "works of art, collectors' pieces and antiques",
+    "min": 4244478,
+    "max": 3701279
+  },
+  {
+    "num": 51,
+    "name": "wool and fine or coarse animal hair, including yarns and woven fabrics thereof; horsehair yarn and woven fabric",
+    "min": 1015678,
+    "max": 349174
+  },
+  {
+    "num": 22,
+    "name": "beverages, spirits and vinegar",
+    "min": 4532384,
+    "max": 3701913
+  },
+  {
+    "num": 1,
+    "name": "live animals",
+    "min": 1452406,
+    "max": 613271
+  },
+  {
+    "num": 88,
+    "name": "aircraft, spacecraft, and parts thereof",
+    "min": 6546811,
+    "max": 5518174
+  },
+  {
+    "num": 4,
+    "name": "dairy produce; birds' eggs; natural honey; edible products of animal origin, nesoi",
+    "min": 2521015,
+    "max": 1470310
+  },
+  {
+    "num": 17,
+    "name": "sugars and sugar confectionery",
+    "min": 10132571,
+    "max": 9079581
+  },
+  {
+    "num": 43,
+    "name": "furskins and artificial fur; manufactures thereof",
+    "min": 2837076,
+    "max": 1648480
+  },
+  {
+    "num": 83,
+    "name": "miscellaneous articles of base metal",
+    "min": 258670378,
+    "max": 257258613
+  },
+  {
+    "num": 38,
+    "name": "miscellaneous chemical products",
+    "min": 49121183,
+    "max": 47010894
+  },
+  {
+    "num": 7,
+    "name": "edible vegetables and certain roots and tubers",
+    "min": 28808766,
+    "max": 26559266
+  },
+  {
+    "num": 11,
+    "name": "milling industry products; malt; starches; inulin; wheat gluten",
+    "min": 4796435,
+    "max": 2515856
+  },
+  {
+    "num": 58,
+    "name": "special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery",
+    "min": 15475863,
+    "max": 13120833
+  },
+  {
+    "num": 8,
+    "name": "edible fruit and nuts; peel of citrus fruit or melons",
+    "min": 6383640,
+    "max": 4022825
+  },
+  {
+    "num": 72,
+    "name": "iron and steel",
+    "min": 37450042,
+    "max": 35060838
+  },
+  {
+    "num": 12,
+    "name": "oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "min": 7013422,
+    "max": 4428079
+  },
+  {
+    "num": 52,
+    "name": "cotton, including yarns and woven fabrics thereof",
+    "min": 8633706,
+    "max": 5494997
+  },
+  {
+    "num": 74,
+    "name": "copper and articles thereof",
+    "min": 17800580,
+    "max": 14554350
+  },
+  {
+    "num": 69,
+    "name": "ceramic products",
+    "min": 232902167,
+    "max": 229081147
+  },
+  {
+    "num": 91,
+    "name": "clocks and watches and parts thereof",
+    "min": 39888899,
+    "max": 35698869
+  },
+  {
+    "num": 23,
+    "name": "residues and waste from the food industries; prepared animal feed",
+    "min": 13616970,
+    "max": 9174551
+  },
+  {
+    "num": 60,
+    "name": "knitted or crocheted fabrics",
+    "min": 25289910,
+    "max": 20756764
+  },
+  {
+    "num": 5,
+    "name": "products of animal origin, nesoi",
+    "min": 12526996,
+    "max": 7992875
+  },
+  {
+    "num": 31,
+    "name": "fertilizers",
+    "min": 7508255,
+    "max": 2540043
+  },
+  {
+    "num": 16,
+    "name": "edible preparations of meat, fish, crustaceans, molluscs or other aquatic invertebrates",
+    "min": 18989811,
+    "max": 13153139
+  },
+  {
+    "num": 46,
+    "name": "manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",
+    "min": 26684582,
+    "max": 20462484
+  },
+  {
+    "num": 65,
+    "name": "headgear and parts thereof",
+    "min": 63529126,
+    "max": 57291657
+  },
+  {
+    "num": 55,
+    "name": "manmade staple fibers, including yarns and woven fabrics thereof",
+    "min": 31273130,
+    "max": 24682097
+  },
+  {
+    "num": 32,
+    "name": "tanning or dyeing extracts; tannins and derivatives; dyes, pigments and other coloring matter; paints and varnishes; putty and other mastics; inks",
+    "min": 22918021,
+    "max": 16184778
+  },
+  {
+    "num": 56,
+    "name": "wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+    "min": 46145677,
+    "max": 38422626
+  },
+  {
+    "num": 71,
+    "name": "natural or cultured pearls, precious or semiprecious stones, precious metals; precious metal clad metals, articles thereof; imitation jewelry; coin",
+    "min": 66641507,
+    "max": 58654324
+  },
+  {
+    "num": 57,
+    "name": "carpets and other textile floor coverings",
+    "min": 38386807,
+    "max": 30312966
+  },
+  {
+    "num": 59,
+    "name": "impregnated, coated, covered or laminated textile fabrics; textile articles suitable for industrial use",
+    "min": 29817628,
+    "max": 21370765
+  },
+  {
+    "num": 82,
+    "name": "tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "min": 146101429,
+    "max": 136876470
+  },
+  {
+    "num": 3,
+    "name": "fish and crustaceans, molluscs and other aquatic invertebrates",
+    "min": 60500325,
+    "max": 51266771
+  },
+  {
+    "num": 28,
+    "name": "inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",
+    "min": 84680573,
+    "max": 73848429
+  },
+  {
+    "num": 54,
+    "name": "manmade filaments, including yarns and woven fabrics thereof",
+    "min": 33122026,
+    "max": 22272745
+  },
+  {
+    "num": 33,
+    "name": "essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "min": 64566193,
+    "max": 52763988
+  },
+  {
+    "num": 76,
+    "name": "aluminum and articles thereof",
+    "min": 144288543,
+    "max": 130797225
+  },
+  {
+    "num": 27,
+    "name": "mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+    "min": 24410346,
+    "max": 6904140
+  },
+  {
+    "num": 90,
+    "name": "optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "min": 313820696,
+    "max": 294462722
+  },
+  {
+    "num": 25,
+    "name": "salt; sulfur; earths and stone; plastering materials, lime and cement",
+    "min": 68812219,
+    "max": 47474651
+  },
+  {
+    "num": 86,
+    "name": "railway or tramway locomotives, rolling stock, track fixtures and fittings, and parts thereof; mechanical etc. traffic signal equipment of all kinds",
+    "min": 75986349,
+    "max": 53803876
+  },
+  {
+    "num": 70,
+    "name": "glass and glassware",
+    "min": 292964213,
+    "max": 265525059
+  },
+  {
+    "num": 48,
+    "name": "paper and paperboard; articles of paper pulp, paper or paperboard",
+    "min": 275974758,
+    "max": 240836807
+  },
+  {
+    "num": 20,
+    "name": "preparations of vegetables, fruit, nuts, or other parts of plants",
+    "min": 88379311,
+    "max": 51740398
+  },
+  {
+    "num": 61,
+    "name": "articles of apparel and clothing accessories, knitted or crocheted",
+    "min": 515881119,
+    "max": 478995503
+  },
+  {
+    "num": 62,
+    "name": "articles of apparel and clothing accessories, not knitted or crocheted",
+    "min": 452972780,
+    "max": 404772911
+  },
+  {
+    "num": 44,
+    "name": "wood and articles of wood; wood charcoal",
+    "min": 272253783,
+    "max": 215508795
+  },
+  {
+    "num": 29,
+    "name": "organic chemicals",
+    "min": 264647502,
+    "max": 206797798
+  },
+  {
+    "num": 42,
+    "name": "articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles  of gut (other than silkworm gut)",
+    "min": 330601536,
+    "max": 254569280
+  },
+  {
+    "num": 68,
+    "name": "articles of stone, plaster, cement, asbestos, mica or similar materials",
+    "min": 175047723,
+    "max": 97226111
+  },
+  {
+    "num": 40,
+    "name": "rubber and articles thereof",
+    "min": 247942354,
+    "max": 168998822
+  },
+  {
+    "num": 73,
+    "name": "articles of iron or steel",
+    "min": 810750608,
+    "max": 731514860
+  },
+  {
+    "num": 84,
+    "name": "nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "min": 2561393002,
+    "max": 2234942475
+  },
+  {
+    "num": 94,
+    "name": "furniture; bedding, cushions etc.; lamps and lighting fittings nesoi; illuminated signs, nameplates and the like; prefabricated buildings",
+    "min": 2604550836,
+    "max": 2243159015
+  },
+  {
+    "num": 87,
+    "name": "vehicles, other than railway or tramway rolling stock, and parts and accessories thereof",
+    "min": 1195942180,
+    "max": 776996101
+  },
+  {
+    "num": 85,
+    "name": "electrical machinery and equipment and parts thereof; sound recorders and reproducers, television recorders and reproducers, parts and accessories",
+    "min": 3191086792,
+    "max": 2758929372
+  }
+]
+}
