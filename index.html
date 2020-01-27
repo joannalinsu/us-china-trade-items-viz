@@ -62,11 +62,12 @@
         }
 
         circle.lollipop-start {
-            fill:  #ffb366;
+            fill:  #a64dff;
         }
 
         .lollipop-end {
-            fill: #a64dff;
+            fill: #ffb366;
+            opacity:0.7;
         }
 
 
@@ -101,8 +102,8 @@
 <div class="dropdown">
     Sorted By
     <select class="sort-by">
-        <option value="min">2019</option>
-        <option value="max">2018</option>
+        <option value="min">2018</option>
+        <option value="max">2019</option>
     </select>
 </div>
 <script>
@@ -146,8 +147,8 @@
     };
 
     var legendLabels = [
-        {label: "2018", class: "lollipop-start"},
-        {label: "2019", class: "lollipop-end"}
+        {label: "2019", class: "lollipop-start"},
+        {label: "2018", class: "lollipop-end"}
     ];
 
     var legendX = 0,
